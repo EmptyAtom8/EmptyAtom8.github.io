@@ -18,8 +18,9 @@ show_social: true
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "SoftwareDeveloper_CV_JiaheLI.pdf", title: "CV", icon: file-text-o}
-  - {file: "README.md", title: "About Me", icon: id-card}
-  - {file: "project.html", title: "Projects", icon: space-shuttle}
+  - {file: "index.md", title: "About Me", icon: id-card}
+  - {file: "project.html", title: "Projects Experience", icon: space-shuttle}
+  
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
