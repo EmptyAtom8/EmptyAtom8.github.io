@@ -1,6 +1,6 @@
 title: "Tony Li"
 author: "Tony Li"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "My Online Portfolio"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: "Home Change", icon: home}
+  - {file: "README.md", title: "About Me", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:tonylijiahe@icloud.com"}
+  - {title: Github, icon: github, url: "https://github.com/EmptyAtom8"}
+  
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
