@@ -17,7 +17,7 @@ show_social: true
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "SoftwareDeveloper_CV_JiaheLI.pdf", title: "CV", icon: map}
+  - {file: "/SoftwareDeveloper_CV_JiaheLI.pdf", title: "CV", icon: map}
   - {file: "index.md", title: "About Me", icon: id-card}
   - {file: "project.html", title: "Projects Experience", icon: space-shuttle}
   
