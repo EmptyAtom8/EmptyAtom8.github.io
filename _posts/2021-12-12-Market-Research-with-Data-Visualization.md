@@ -16,9 +16,9 @@ A shoe retailing company contacted me, a marketing undergraduate student, to tak
 
 ## Content Demostration 
 
-![title](assets/MKT3019_Data_Analysis_0.png))
-![title](assets/MKT3019_Data_Analysis1.png))
-![Tableau Dashboard](assets/MKT3019_Data_Analysis_2.png))
+![title](assets/MKT3019_Data_Analysis_0.png)
+![title](assets/MKT3019_Data_Analysis1.png)
+![Tableau Dashboard](assets/MKT3019_Data_Analysis_2.png)
 
 
 
