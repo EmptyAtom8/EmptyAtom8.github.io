@@ -25,7 +25,7 @@ A shoe retailing company contacted me, a marketing undergraduate student, to tak
 
 ## Full Report
 
-
+[View Full Report](https://github.com/EmptyAtom8/EmptyAtom8.github.io/blob/master/MKT3019_Final_Copy%20(1).docx){:target="_blank"}
 
 
 
