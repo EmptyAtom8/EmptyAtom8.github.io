@@ -17,7 +17,7 @@ A shoe retailing company contacted me, a marketing undergraduate student, to tak
 ## Content Demostration 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 1. Analysis on how sales goals were met each year and observe and seasonal trend
-![Sales Performance With Respect to Sales Target](https://github.com/EmptyAtom8/EmptyAtom8.github.io/blob/master/assets/MKT3019_Data_Analysis_0.png)
+![Sales Performance With Respect to Sales Target](/assets/MKT3019_Data_Analysis_0.png)
 2. Illustrate how profitable each customer was, those who generated the most sales do not guarantee they also generate a proportional amount of profit. Each customer's sales records were plotted on the Profit vs Sales chart, the colour of the dots indicates the profitability ratios.
 ![Customer Profitablity Grouping Chart](https://github.com/EmptyAtom8/EmptyAtom8.github.io/blob/master/assets/MKT3019_Data_Analysis1.png)
 3. Little pieces of information were put together into a ‘dashboard’.
